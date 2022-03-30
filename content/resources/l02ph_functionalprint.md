@@ -6,6 +6,7 @@ description: This resource contains information related to explicitly parallel f
   and a-renaming, and curried functions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/83f7842206da5f513f6d36d76815dbb8_L02pH_FunctionalPrint.pdf
 file_type: application/pdf
+parent_uid: bd64f58a-7ad5-fbb5-7cc7-76e21de6272a
 resourcetype: Document
 title: L02pH_FunctionalPrint.pdf
 uid: 83f78422-06da-5f51-3f6d-36d76815dbb8
